@@ -448,7 +448,7 @@ def start(target, counter, delay, ch, cc):
         print("             Failed Requests         : ", failed)
         print("==================================================================")
         print("              Use this for fun, not for revenge !!                ")
-        print("              This Bomber Was Created By Navin !!                ")
+        print("              This Bomber Was Created By Imrafeeqkhan !!                ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)

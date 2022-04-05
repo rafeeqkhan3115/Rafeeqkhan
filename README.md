@@ -101,5 +101,7 @@ sudo bash Bomber.sh
 Feel Free To Open An Issue...
 
 ```
-                 Instagram: imrafeeqkhan
-                 Whatsapp: +.
+                 Instagram: navin_hariharan
+                 Whatsapp: +917305574234
+```
++919942962288
