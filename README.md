@@ -49,8 +49,8 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/pepperjack1210/Bomber
-cd Bomber
+git clone https://github.com/rafeeqkhan3115/Rafeeqkhan.git
+cd Rafeeqkhan
 chmod +x Bomber.sh
 ./Bomber.sh
 ```
@@ -67,8 +67,8 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/pepperjack1210/Bomber
-cd Bomber
+git clone https://github.com/rafeeqkhan3115/Rafeeqkhan.git
+cd Rafeeqkhan
 chmod +x Bomber.sh
 sudo bash Bomber.sh
 ```
@@ -87,8 +87,8 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/pepperjack1210/Bomber/
-cd Bomber
+git clone https://github.com/rafeeqkhan3115/Rafeeqkhan.git
+cd Rafeeqkhan
 chmod +x Bomber.sh
 
 # Run Bomber:
@@ -101,7 +101,4 @@ sudo bash Bomber.sh
 Feel Free To Open An Issue...
 
 ```
-                 Instagram: navin_hariharan
-                 Whatsapp: +917305574234
-```
-+919942962288
+                 Instagram:imrafeeqkhan
